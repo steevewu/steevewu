@@ -1,10 +1,10 @@
 ```python
-class 3rg0u:
+class __3rg0u:
     def __init__(self):
         self.__name = '3rg0u'
         self.__dob = 'Unknown'
         self.__gender = 'Unknown'
-        self.__interest = ['programming', 'sleeping', 'reading']
+        self.__interests = ['programming', 'sleeping', 'reading']
         self.__alive = True
 
     def __alive(self):
