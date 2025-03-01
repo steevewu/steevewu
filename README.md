@@ -4,8 +4,8 @@
 class __3rg0u:
     def __init__(self):
         self.__name = '3rg0u'
-        self.__dob = 'Unknown'
-        self.__gender = 'Unknown'
+        self.__dob = 'unknown'
+        self.__gender = 'unknown'
         self.__interests = ['programming', 'sleeping', 'reading']
         self.__alive = True
 
